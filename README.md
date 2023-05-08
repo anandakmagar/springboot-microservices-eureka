@@ -9,10 +9,10 @@ This is a simple application that has 3 client services and a server such as use
 
 Assigned Ports
 --------------
-user-service              : 8091
-authentication-service    : 8093
-api-gateway               : 8092
-service-discovery-service : 8762
+1. user-service              : 8091
+2. authentication-service    : 8093
+3. api-gateway               : 8092
+4. service-discovery-service : 8762
 
 API Endpoints
 -------------
