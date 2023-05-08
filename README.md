@@ -7,6 +7,13 @@ This is a simple application that has 3 client services and a server such as use
 3. api-gatway-service routes the user's requests to the specified services.
 4. service-discovery-service registers the microservices.
 
+Assigned Ports
+--------------
+user-service              : 8091
+authentication-service    : 8093
+api-gateway               : 8092
+service-discovery-service : 8762
+
 API Endpoints
 -------------
 1. Register User (POST)    : localhost:8092/user-service/users
